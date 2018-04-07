@@ -49,16 +49,8 @@ This guide is intended for Computer Science students seeking an internship or un
         Online resources for beginning programmers:
         <ul>
           <li>
-            <a href="https://www.coursera.org/specializations/java-programming">Java
-            Programming: An Introduction to Software,</a> Duke University, Coursera
-          </li>
-          <li>
             <a href="https://www.coursera.org/learn/learn-to-program">Learn to Program: The
-            Fundamentals,</a> University of Toronto, Coursera
-          </li>
-          <li>
-            <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm">
-            Introduction to Programming in Java,</a> MIT OpenCourseWare
+            Fundamentals (Python),</a> University of Toronto, Coursera
           </li>
           <li>
             <a href="https://developers.google.com/edu/python/">Google's Python Class</a>
@@ -66,6 +58,14 @@ This guide is intended for Computer Science students seeking an internship or un
           <li>
             <a href="https://www.coursera.org/learn/interactive-python-1">Introduction to
             Interactive Programming in Python,</a> Rice University, Coursera
+          </li>
+          <li>
+            <a href="https://www.coursera.org/specializations/java-programming">Java
+            Programming: An Introduction to Software,</a> Duke University, Coursera
+          </li>
+          <li>
+            <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm">
+            Introduction to Programming in Java,</a> MIT OpenCourseWare
           </li>
         </ul>
         Online resources for more experienced programmers:
@@ -77,11 +77,11 @@ This guide is intended for Computer Science students seeking an internship or un
           </li>
           <li>
             <a href="https://www.udacity.com/course/design-of-computer-programs--cs212">Design of
-            Computer Programs,</a> Udacity
+            Computer Programs (Python),</a> Udacity
           </li>
           <li>
             <a href="https://www.coursera.org/learn/program-code">Learn to Program:
-            Crafting Quality Code,</a> University of Toronto, Coursera
+            Crafting Quality Code (Python),</a> University of Toronto, Coursera
           </li>
           <li>
             <a href="https://cs.brown.edu/courses/cs173/2012/OnLine/">Introduction to
@@ -332,10 +332,10 @@ This guide is intended for Computer Science students seeking an internship or un
         </p>
         <ul>
           <li>
-            <a href="https://github.com/">GitHub®</a>
+            <a href="https://github.com/">GitHub</a>
           </li>
           <li>
-            <a href="https://www.fogcreek.com/kiln/">Kiln™</a>
+            <a href="https://gitlab.com/explore">GitLab</a>
           </li>
         </ul>
       </td>
