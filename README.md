@@ -151,6 +151,9 @@ This guide is intended for Computer Science students seeking an internship or un
             Mathematical Thinking,</a> Stanford, Coursera
           </li>
           <li>
+            <a href="https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0">Effective thinking through mathematics,</a> University of Texas at Austin, edX
+          </li>
+          <li>
             <a href="https://www.coursera.org/course/pgm">Probabilistic Graphical
             Models,</a> Stanford, Coursera
           </li>
@@ -337,7 +340,6 @@ This guide is intended for Computer Science students seeking an internship or un
         <p>
           GitHub is a great way to read other people’s code or contribute to a project.
         </p>
-
         Online resources:
         <ul>
           <li>
