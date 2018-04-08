@@ -346,7 +346,7 @@ This guide is intended for Computer Science students seeking an internship or un
             <a href="https://opensource.guide/how-to-contribute/">How to contribute to Open Source</a>
           </li>
           <li>
-            <a hef="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>
+            <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>
           </li>
           <li>
             <a href="https://github.com/">GitHub</a>
