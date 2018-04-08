@@ -37,6 +37,9 @@ This guide is intended for Computer Science students seeking an internship or un
             <a href="https://www.udacity.com/course/cs101">CS101 - Intro to Computer
             Science,</a> Udacity
           </li>
+          <li>
+            <a href="https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x">CS50x - Introduction to Computer Science,</a> Harvard, edX
+          </li>
         </ul>
       </td>
     </tr>
@@ -180,6 +183,9 @@ This guide is intended for Computer Science students seeking an internship or un
             2,</a> Princeton, Coursera
           </li>
           <li>
+            <a href="https://people.eecs.berkeley.edu/~jrs/61b/">CS61B - Data Structures</a> (and <a href="https://archive.org/details/ucberkeley_webcast_itunesu_596646791">video lectures</a>), UC Berkeley
+          </li>
+          <li>
             <a href="https://en.wikipedia.org/wiki/List_of_algorithms">List of
             Algorithms,</a> Wikipedia
           </li>
@@ -257,6 +263,9 @@ This guide is intended for Computer Science students seeking an internship or un
             <a href="https://developers.google.com/training/web/">Google Developer Training
             for Web,</a> on Udacity
           </li>
+          <li>
+            <a href="https://www.freecodecamp.org/">freeCodeCamp - Learn to Code and Help Nonprofits</a>
+          </li>
         </ul>
       </td>
     </tr>
@@ -332,6 +341,12 @@ This guide is intended for Computer Science students seeking an internship or un
         Online resources:
         <ul>
           <li>
+            <a href="https://opensource.guide/how-to-contribute/">How to contribute to Open Source</a>
+          </li>
+          <li>
+            <a hef="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>
+          </li>
+          <li>
             <a href="https://github.com/">GitHub</a>
           </li>
           <li>
@@ -404,3 +419,10 @@ This guide is intended for Computer Science students seeking an internship or un
     </tr>
   </tbody>
 </table>
+
+### Articles
+
+> There was no article section in the original guide, but these are relevant, recent and excellent.
+
+* [How to land a top notch tech job as a student.](https://medium.freecodecamp.org/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d)
+* [Why I studied full-time for 8 months for a Google interview.](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
