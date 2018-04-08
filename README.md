@@ -407,6 +407,13 @@ This guide is intended for Computer Science students seeking an internship or un
       <td>
         <a href="https://www.google.com/about/careers/students/engineering-and-technical-internships/">
         Find Google’s internships in Engineering and Technology on our Students site.</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Prepare for the interview</strong>
+      </td>
+      <td>
         <p>
           Online resource to prepare to interview for software engineering positions,
           including for internships:
@@ -415,6 +422,12 @@ This guide is intended for Computer Science students seeking an internship or un
           <li>
             <a href="https://www.coursera.org/learn/cs-tech-interview">Mastering the
             Software Engineering Interview,</a> UCSD, Coursera
+          </li>
+          <li>
+            Book: Cracking the Coding Interview
+          </li>
+          <li>
+            Book: Programming Interviews Exposed
           </li>
         </ul>
       </td>
