@@ -34,7 +34,7 @@ This guide is intended for Computer Science students seeking an internship or un
         Online resources:
         <ul>
           <li>
-            <a href="https://www.udacity.com/course/cs101">Introduction to Computer
+            <a href="https://www.udacity.com/course/cs101">CS101 - Intro to Computer
             Science,</a> Udacity
           </li>
         </ul>
@@ -175,8 +175,8 @@ This guide is intended for Computer Science students seeking an internship or un
             Introduction to Algorithms,</a> MIT OpenCourseWare
           </li>
           <li>
-            <a href="https://www.coursera.org/course/algs4partI">Algorithms Part 1</a>
-            &amp; <a href="https://www.coursera.org/course/algs4partII">Algorithms Part
+            <a href="https://www.coursera.org/learn/algorithms-part1">Algorithms Part 1</a>
+            &amp; <a href="https://www.coursera.org/learn/algorithms-part2">Algorithms Part
             2,</a> Princeton, Coursera
           </li>
           <li>
@@ -201,8 +201,7 @@ This guide is intended for Computer Science students seeking an internship or un
         Online resources:
         <ul>
           <li>
-            <a href="https://www.youtube.com/watch?v=XgQo4JkN4Bw&amp;list=PL3289DD0D0F0CD4A3">Computer
-          Science 162,</a> UC Berkeley, YouTube
+            <a href="https://archive.org/details/ucberkeley-webcast-PL3A5075EC94726781">CS162 - Operating Systems and Systems Programming,</a> UC Berkeley, YouTube
           </li>
         </ul>
       </td>
@@ -326,10 +325,11 @@ This guide is intended for Computer Science students seeking an internship or un
         existing code, track down documentation, and debug</strong>
       </td>
       <td>
-        GitHub is a great way to read other people’s code or contribute to a project.
         <p>
-          Online resources:
+          GitHub is a great way to read other people’s code or contribute to a project.
         </p>
+
+        Online resources:
         <ul>
           <li>
             <a href="https://github.com/">GitHub</a>
