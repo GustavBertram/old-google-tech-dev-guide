@@ -147,6 +147,9 @@ This guide is intended for Computer Science students seeking an internship or un
             Mathematics for Computer Science,</a> MIT OpenCourseWare
           </li>
           <li>
+            If Mathematics for Computer Science is too challenging, try taking the <a href="https://www.coursera.org/specializations/discrete-mathematics">Discrete Mathematics Specialization</a> first.
+          </li>
+          <li>
             <a href="https://www.coursera.org/learn/mathematical-thinking">Introduction to
             Mathematical Thinking,</a> Stanford, Coursera
           </li>
