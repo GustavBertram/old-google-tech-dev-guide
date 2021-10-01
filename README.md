@@ -252,8 +252,7 @@ This guide is intended for Computer Science students seeking an internship or un
         Online resources:
         <ul>
           <li>
-            <a href="https://developers.google.com/training/android/">Google Developer
-            Training for Android,</a> on Udacity
+            <a href="https://developers.google.com/training/android/">Google Developer Training for Android</a>
           </li>
         </ul>
       </td>
@@ -266,8 +265,7 @@ This guide is intended for Computer Science students seeking an internship or un
         Online resources:
         <ul>
           <li>
-            <a href="https://developers.google.com/training/web/">Google Developer Training
-            for Web,</a> on Udacity
+            <a href="https://developers.google.com/web">Google Developer Training for Web</a>
           </li>
           <li>
             <a href="https://www.freecodecamp.org/">freeCodeCamp - Learn to Code and Help Nonprofits</a>
